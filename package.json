@@ -1,0 +1,18 @@
+{
+  "name": "alc",
+  "version": "1.0.0",
+  "description": "a simple student management application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "osho klinsmann",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "firebase": "^4.6.0",
+    "winston": "^2.4.0"
+  }
+}
